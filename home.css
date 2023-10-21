@@ -1,0 +1,41 @@
+head,body{
+    padding:300px;
+    margin:100px;
+    padding-right:700px;
+    padding-left: 100px;
+    text-align: center;
+    background-color:grey;
+    background-image: url("https://d4t7t8y8xqo0t.cloudfront.net/app/eazymedia/restaurant%2F110025%2Frestaurant020160519143002.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background:image 100px;
+    font-size: medium;
+    opacity:400px;
+    background-position: cover;
+    
+}
+
+.container{
+    text-align:right;
+    display:flex;
+    justify-content:space-around;
+    justify-items: center;
+    align-items: center;
+    color: coral;
+    
+}
+.name{
+    color:whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-display:right;
+    padding-left: 25px;
+    padding-right: 10px;
+    padding: top 300px;;
+}
+.title{
+    color:beige;
+    font-family: serif;
+    font-size: x-large;
+    font-weight: 100;
+    font-style: bold;
+}

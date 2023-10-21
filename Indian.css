@@ -1,0 +1,30 @@
+head,body{
+    
+    border-radius:10px;
+    padding:100px;
+    text-align: center;
+    background-image:url("https://t4.ftcdn.net/jpg/02/84/46/89/360_F_284468940_1bg6BwgOfjCnE3W0wkMVMVqddJgtMynE.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.title{
+    font-size: large;
+    color:beige;
+    padding-left:00px;
+    padding-right:1400px;
+}
+.container{
+    color:beige;
+    padding-left: 00px;
+    padding-right:1200px;
+    padding-top: 50px;
+}
+.button{
+    padding-top:40px;
+    color:beige;
+    padding-left:00px;
+    padding-right: 1200px;
+    padding-top: 50px;
+}

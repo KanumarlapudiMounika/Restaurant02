@@ -1,0 +1,13 @@
+head,body{
+    background-color:peachpuff;
+    padding-left: 400px;
+    padding-top: 100px;
+    padding-right:100px;
+    padding-bottom:100px;
+    margin:200px;
+    font-size: x-large;
+    font-display:center;
+}
+.inputs{
+    padding inline: 25px;
+}

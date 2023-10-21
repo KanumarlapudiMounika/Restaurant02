@@ -1,0 +1,32 @@
+head,body{
+    
+    border-radius:10px;
+    padding:00px;
+    text-align: center;
+    background-image:url("https://media.istockphoto.com/id/1262615146/photo/thai-beef-stir-fry-with-pepper-and-basil-on-plate.jpg?b=1&s=170x170&k=20&c=6e9SQJirhumlYx-pycEBY9Fq9FgI1ZlIZELPToXrSuE=") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:0.5;
+}
+.title{
+    font-size:xx-large;
+    color:beige;
+    padding-left:00px;
+    padding-right:800px;
+}
+.container{
+    color:beige;
+    padding-left:00px;
+    padding-right:800px;
+    padding-top: 50px;
+    font-size:x-large;
+}
+.button{
+    padding-top:40px;
+    color:beige;
+    padding-left:00px;
+    padding-right:800px;
+    padding-top: 70px;
+}
